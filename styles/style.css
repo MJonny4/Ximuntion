@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.scrollspy-example {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  background: rgb(229, 229, 234);
+  color: rgb(28, 28, 30);
+}
+
+#navbar-example2{
+  font-family: 'Roboto', sans-serif;
+  background: rgb(229, 229, 234);
+}
+
+.w3-top {
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+}
+
+#home2 {
+  padding-top: 20px;
+}
+
+#about {
+  background: rgb(255, 69, 58);
+  margin-bottom: 10px;
+  
+}
+
+#info {
+    background: rgb(10, 132, 255);
+    margin-bottom: 10px;
+    text-align: justify
+}
+
+#features {
+  background: rgb(255, 204, 0);
+  margin-bottom: 10px;
+  text-align: justify
+}
+
+#contact {
+  background: rgb(52, 199, 89);
+  margin-bottom: 10px;
+}
